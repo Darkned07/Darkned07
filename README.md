@@ -14,7 +14,7 @@
  
  🌱 men hozir **React, ReduxToolkit, O'rganyabman**
 
-💬 mendan  **React, firebase haqida malumot sorang**
+
 
 
 
