@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 men hozirda  **ishsizman**
+ 🔭 Men hozirda  **ishsizman**
  
- 🌱 men hozir **Tez orada node.js ni o'rganishni rejalashtiryabman**
+ 🌱 Men hozir **node.js ni o'rganishni rejalashtiryabman**
 
 
 
