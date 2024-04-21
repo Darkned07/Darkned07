@@ -12,7 +12,7 @@
  
  🔭 men hozirda  **ishsizman**
  
- 🌱 men hozir **React, ReduxToolkit, O'rganyabman**
+ 🌱 men hozir **Tez orada node.js ni o'rganishni rejalashtiryabman**
 
 
 
@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:loganogan73@gmail.com">
+  <a href="mailto:kinoizlovchi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/muhammadyusufmadaminov/" target="_blank">
